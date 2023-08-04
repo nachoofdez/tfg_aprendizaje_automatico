@@ -1,1 +1,1 @@
-Se adjunta mi Trabajo de Final de Grado de Matemáticas, que consta de una revisión de las técnicas de clasificación supervisada y su aplicación a la predicción de rangos de precios en teléfonos móviles
+Se adjunta mi Trabajo de Final de Grado de Matemáticas, que consta de una revisión de las técnicas de clasificación supervisada y su aplicación a la predicción de rangos de precios en teléfonos móviles. Además, se adjunta también la presentación usada para exponer el trabajo.
